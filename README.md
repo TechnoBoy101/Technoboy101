@@ -7,7 +7,7 @@
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
 - [https://trading.finance50.repl.co](https://trading.finance50.repl.co), etc..
 
-![](https://img.shields.io/badge/Followers-{{ followers }}-informational?style=flat&logo=<Hi>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Followers-{{ ACCOUNT_AGE }}-informational?style=flat&logo=<Hi>&logoColor=white&color=2bbc8a)
 
 #### I like to read books, play with lego and do coding.
 
