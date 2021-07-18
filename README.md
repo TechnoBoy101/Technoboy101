@@ -7,7 +7,8 @@
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
 - [https://trading.finance50.repl.co](https://trading.finance50.repl.co), etc..
 
-![s](https://camo.githubusercontent.com/62599d2d7ea728ba2571baf5fb1e843512216345993948dc4657172e57bb00c2/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d43686172616c616d626f73496f616e6e6f752e43686172616c616d626f73496f616e6e6f75)
+[![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=TechnoBoy101)](https://github.com/Technoboy101/github-readme-stats)
+
 
 #### I like to read books, play with lego and do coding.
 
