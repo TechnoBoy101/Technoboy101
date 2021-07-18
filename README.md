@@ -10,9 +10,9 @@
 #### I like to read books, play with lego and do coding.
 
 ## 🎖️ My Achievments - 
-### Recently Completed CS50x - An introduction to computer science by HarvardX
+#### Recently Completed CS50x - An introduction to computer science by HarvardX
 <img src="https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true" alt="drawing" width="500"/><span></span>
-### Had finished Codecademy's HTML, CSS and JAVASCRIPT course.
+#### Had finished Codecademy's HTML, CSS and JAVASCRIPT course.
 
 ## 🧰Languages and Tools I have learnt and used - <br>
 ![alt](https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/Languages%20and%20tools.png?raw=true)
