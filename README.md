@@ -7,9 +7,6 @@
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
 - [https://trading.finance50.repl.co](https://trading.finance50.repl.co), etc..
 
-[![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=TechnoBoy101)](https://github.com/Technoboy101/github-readme-stats)
-
-
 #### I like to read books, play with lego and do coding.
 
 ## 🎖️ My Achievments - 
