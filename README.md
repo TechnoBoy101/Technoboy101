@@ -1,4 +1,4 @@
-# Hi there 👋 I am [Daksh](https://technoboy101.github.io), an 11 year old enthusiastic programmer.
+# Hi there 👋 I am [Daksh](https://technoboy101.github.io), a 12 year old enthusiastic programmer.
 ## About Me
 #### I am more into web development and have created various websites like - 
 - [https://www.nonsensebutfun.repl.co](https://www.nonsensebutfun.repl.co)
@@ -6,10 +6,10 @@
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
 - [https://trading.finance50.repl.co](https://trading.finance50.repl.co), etc..
 
-#### I like to read books, play with lego and do coding.
+#### I am an enthusiastic programmer and an avid reader. I love to write and create stories, play with lego. My ambition is to become a Programmer and an Ethical Hacker.
 
 ## 🎖️ My Achievments - 
-#### Recently Completed CS50x - An introduction to computer science by HarvardX
+#### Completed CS50x - An introduction to computer science by HarvardX
 <img src="https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true" alt="drawing" width="500"/><span></span>
 #### Had finished Codecademy's HTML, CSS and JAVASCRIPT course.
 
