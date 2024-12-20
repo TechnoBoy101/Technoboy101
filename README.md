@@ -1,4 +1,4 @@
-# Hi there 👋 I am [Daksh](https://technoboy101.github.io), a 14 year old enthusiastic programmer.
+# Hi there 👋 I am [Daksh](https://technoboy101.github.io).
 ## About Me
 #### I am more into web development and have created various websites like - 
 - [https://www.nonsensebutfun.repl.co](https://www.nonsensebutfun.repl.co)
